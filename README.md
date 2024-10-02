@@ -1,7 +1,7 @@
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![portada](https://github.com/user-attachments/assets/19e3581a-36b4-4c65-bc89-a4ddabb345af)
 
-Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
+Soy un estudiante de ingenieria de sistemas apasionado por programar en Java y por las redes, con el objetivo de desarrollar tecnología que empodere a las empresas y fortalezca la colaboración entre ellas.
 
 Encuéntrame en la web 🌎:
 - Aprender en público en <a href="https://www.twitch.tv">Twitch</a> or <a href="https://www..">Drey.dev</a> 📹 ✍🏾
